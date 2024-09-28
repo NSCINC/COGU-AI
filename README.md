@@ -1,5 +1,5 @@
-🌍🤖 COGU IA 🤖🌍
-
+🍄🤖 COGU IA 🤖🍄
+🌍
 🌱 Technologies Used
 C: Implementing core functionalities for performance-critical components.
 Java: Building reliable applications and managing complex business logic.

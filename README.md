@@ -66,4 +66,4 @@ This project is licensed under the Apache-2.0 License. See the LICENSE file for 
 
 COGU IA stands at the forefront of HoloFi technology, providing a robust platform for AI-driven decentralized applications and digital asset management. With advanced integrations such as quantum computing and planetary functionalities, COGU IA is poised to redefine the digital landscape.
 
-<p>FOUNDER: LUCAS JANAURIO DO NASCIMENTO</p> <img src="D.PNG" alt="Holo Ether Logo">
+<p>FOUNDER: LUCAS JANAURIO DO NASCIMENTO</p> <img src="A.JPEG" alt="Holo Ether Logo">

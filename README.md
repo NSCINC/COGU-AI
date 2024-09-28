@@ -23,7 +23,7 @@ Clone the Repository:
 
 sh
 Copiar código
-git clone https://github.com/your-username/cogu-ia.git
+git clone https://github.com/nscinc/cogu-ia.git
 Install Dependencies:
 
 sh
